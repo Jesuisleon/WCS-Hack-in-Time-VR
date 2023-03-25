@@ -6,7 +6,7 @@
     Our team participated in a 24-hour hackathon organized by the Wild Code School with a travel theme. We created a unique platform that allows users to book a virtual reality session, traveling through different historical scenes and landmarks. Explore the world like never before with our innovative solution!
     <br/>
     <br/>
-    <a href="">View Demo</a>
+    <a href="https://wcs-hack-in-time-vr.vercel.app/">View Demo</a>
   </p>
 </p>
 

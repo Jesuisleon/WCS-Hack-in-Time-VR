@@ -19,7 +19,7 @@ const Card = ({description ,title, image}) => {
         <Link to ="/travel">
         <button className="card-button">Reserver</button>
         </Link>
-     </div>
+      </div>
   )
 }
 

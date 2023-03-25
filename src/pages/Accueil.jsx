@@ -40,7 +40,7 @@ function Mapmonde() {
             <div style={{ display: "flex", gap: "1em" }}>
                 {cardList
                     .filter(card => card.theme === themeSelected)
-                    .map(card => card.card).flat()
+                    .flatMap(card => card.card)
                     .map(card => <Card description={card.description} image={card.image} title={card.title} />)}
             </div>
         </section>

@@ -10,5 +10,5 @@ export default function FonctionDevis({ devisPrice }){
     } 
     return(
 <h1>{`${devisPrice * 24} €`}</h1>
- )
+    )
 }

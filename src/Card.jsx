@@ -13,7 +13,7 @@ function Cards() {
         <h2 className="card-time">2 heures</h2>
         <p className="card-description">Revivez le combat de billy the Kid et Pat Garette</p>
         <button className="card-button">Travel</button>
-     </div>
+      </div>
     </div>
   );
 }

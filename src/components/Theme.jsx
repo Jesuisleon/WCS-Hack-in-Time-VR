@@ -7,14 +7,15 @@ const Theme = ({ image, title, setThemeSelected }) => {
   const [ShowFrame, setShowFrame] = useState(title)
 
   return (
-    <div
+
+<div
       onMouseOver={() => setShowFrame(title)}
       onMouseOut={() => setShowFrame(null)}
       onClick={() => setThemeSelected(title)}
       className={`period ${title}`}
       id="theme">
       <img src={image} alt={title} />
-     {ShowFrame && <Frame
+      {ShowFrame && <Frame
                     theme={ShowFrame}
                 />}
       

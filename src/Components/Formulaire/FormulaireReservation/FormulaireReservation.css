@@ -1,18 +1,18 @@
 .divContainerFormulaire{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 95%;
-  height: auto;
-  margin: auto;
-  position: relative;
-  border-radius: 3em;
-  background-color: aliceblue;
-  border: 0.5em solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    height: auto;
+    margin: auto;
+    position: relative;
+    border-radius: 3em;
+    background-color: aliceblue;
+    border: 0.5em solid white;
 }
 
 .tempsReservation{
-  margin-bottom: 7em;
+    margin-bottom: 7em;
 }
 
 .inputFirstName, .inputLastName, .heureReservation, .dateReservation{

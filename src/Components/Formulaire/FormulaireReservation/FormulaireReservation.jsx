@@ -16,10 +16,8 @@ export default function FormulaireReservation(){
     const validationReservation =(e) =>{
         e.preventDefault()
             setShowModal(true);
-          }
-    
-  
-
+    }
+        
     return (
         <section >
             <video id="background-video" loop autoPlay>
@@ -30,7 +28,7 @@ export default function FormulaireReservation(){
             <div>
             <Link to="/">
                 <div
-              style={{backgroundColor: "white", borderRadius: "100%", marginLeft:"40%", marginTop:"3%", height: "2em", width: "2em", display: "flex",alignItems: "center", justifyContent: "flex-end", zIndex: "55", position: "absolute", color: "black"}}>X</div>
+                style={{backgroundColor: "white", borderRadius: "100%", marginLeft:"40%", marginTop:"3%", height: "2em", width: "2em", display: "flex",alignItems: "center", justifyContent: "center", zIndex: "55", position: "absolute", color: "black"}}>X</div>
         </Link>
         </div>
             <div className="divContainerFormulaire" style={{position: "absolute", top: "10em"}}>
@@ -92,5 +90,5 @@ export default function FormulaireReservation(){
                 {showModal ? <ModalValidationFormulaireReservation /> : null}
                 </div>
         </section>
-   )
+    )
 }

@@ -15,6 +15,7 @@
 }
 
 
+
 .earth>div {
     width: 200%;
     height: 100%;
@@ -29,8 +30,12 @@
 .earth>div:hover {
     animation-play-state: paused;
     cursor: grab;
-
 }
+
+.earth>div:active {
+    animation-play-state: running;
+}
+
 
 .earth>div:hover {
     animation-play-state: paused;

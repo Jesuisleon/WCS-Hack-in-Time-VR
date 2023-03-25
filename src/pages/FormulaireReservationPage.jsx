@@ -1,4 +1,4 @@
-import FormulaireReservation from "../Components/Formulaire/FormulaireReservation/FormulaireReservation";
+import FormulaireReservation from "../components/Formulaire/FormulaireReservation/FormulaireReservation";
 
 export default function FormulaireReservationPage(){
     return(

@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import { themeList, cardList } from "../data/data";
-import NavBar from '../Components/NavBar/NavBar';
-import Theme from "../Components/Theme";
-import Card from "../Components/Card";
+import NavBar from '../components/NavBar/NavBar';
+import Theme from "../components/Theme";
+import Card from "../components/Card";
 import "../css/Theme.css"
 import ScrollContainer from 'react-indiana-drag-scroll'
 import BackgroundVideo from "../img/background.mp4"

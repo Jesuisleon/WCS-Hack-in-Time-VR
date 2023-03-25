@@ -19,19 +19,19 @@ export default function NavBar(){
     const modalCreationCompte =(e) =>{
         e.preventDefault()
             setShowModalCreationCompte(true);
-          }
+        }
     
 
     return(
         <>
             <div className="topNavBar">
-               <Link to="/"> <img src={Logo} style={{height: "5em",}} /></Link>
+                <Link to="/"> <img src={Logo} style={{ height: "5em", }} alt="logo"/></Link>
             <div>
                 <ul className="menu">
-                  <Link to ="/apropos"> 
-                    <li>A propos</li></Link>
-                    <li onClick={(modalConnexion)}>Connexion</li>
-                    <li onClick={(modalCreationCompte)}>Création de compte</li>
+                    <Link to ="/apropos"> 
+                        <li>A propos</li></Link>
+                        <li onClick={(modalConnexion)}>Connexion</li>
+                        <li onClick={(modalCreationCompte)}>Création de compte</li>
                 </ul>
             </div>
             </div>

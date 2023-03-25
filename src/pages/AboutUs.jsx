@@ -1,4 +1,4 @@
-import AboutUs from "../Components/NavBar/AboutUs/AboutUs";
+import AboutUs from "../components/NavBar/AboutUs/AboutUs";
 
 export default function AboutUsPage(){
     return(

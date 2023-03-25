@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+<br/>
+<p align="center">
+  <h1 align="center">Hack In TimeVr</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <p align="center">
+    Our team participated in a 24-hour hackathon organized by the Wild Code School with a travel theme. We created a unique platform that allows users to book a virtual reality session, traveling through different historical scenes and landmarks. Explore the world like never before with our innovative solution!
+    <br/>
+    <br/>
+    <a href="">View Demo</a>
+  </p>
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+## About The Project
 
-### `npm start`
+![Screen Shot](src/img/screenshot.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Our team participated in a hackathon organized by the Wild Code School with the theme of travel. We were given 24 hours to create a unique project that would revolutionize the way people travel. After much brainstorming and ideation, we came up with a novel idea - a platform that allows users to book virtual reality sessions, traveling through different historical scenes and landmarks.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The platform we developed is a one-of-a-kind solution that offers an immersive and interactive experience to users. With the help of virtual reality technology, users can explore different parts of the world like never before. They can visit historical landmarks, meet famous personalities, and even travel back in time.
 
-### `npm test`
+Our team worked tirelessly for 24 hours to bring this project to fruition. We created a user-friendly interface, seamless booking system, and engaging content that will keep users hooked. We believe that our platform has the potential to change the way people travel, making it more accessible, affordable, and sustainable.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+In conclusion, our hackathon project is a testament to our team's creativity, innovation, and commitment. We are proud to present our solution and hope that it will inspire others to push the boundaries of technology and travel.
 
-### `npm run build`
+## Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* React [React](https://fr.reactjs.org/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Authors
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* **Charline Vergoz** - [Charline Vergoz](https://github.com/CV418)
+* **Maxime Faure** - [Maxime Faure](https://github.com/Milimaks)
+* **Rosbain** - [Rosbain](https://github.com/russenbissemo)
+* **Jonathan Bonhoure** - [Jonathan Bonhouse](https://github.com/SkullZRulZ)
+* **Léon** - [Léon](https://github.com/Jesuisleon)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
